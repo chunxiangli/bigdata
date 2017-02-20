@@ -1,6 +1,5 @@
 
 
-
 # ETL
 
 To demo technology for big data ETL operations including
